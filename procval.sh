@@ -5,7 +5,7 @@
 
 
 
-file=values.txt          #Save the values.txt inside variable file.
+file=values.txt          #Save the values.txt inside a variable named file.
 
 declare -a VALUES        #Declare an array with the name VALUES.
 
